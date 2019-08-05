@@ -1,5 +1,7 @@
 # j-l-barbershop
 
+![screenie.png](screenie.png)
+
 ## Project setup
 ```
 yarn install
