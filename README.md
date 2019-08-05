@@ -1,5 +1,7 @@
 # j-l-barbershop
 
+## Screenshot
+
 ![screenie.png](screenie.png)
 
 ## Project setup
