@@ -2,7 +2,7 @@
 	<div>
 		<ul>
 			<li v-on:click="selectTab('Home')"><a>Home</a></li>
-			<li v-on:click="selectTab('Examples')"><a>Examples</a></li>
+			<li v-on:click="selectTab('Work')"><a>Work</a></li>
 			<li v-on:click="selectTab('Contact')"><a>Contact</a></li>
 		</ul>
 		<tab-content :selection="selection"></tab-content>

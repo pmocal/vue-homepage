@@ -1,16 +1,14 @@
 <template>
 	<div v-if="selection == 'Contact'">
-		<h2>Find us at:</h2>
-		<p>336 S 4th St, Brooklyn, NY 11211</p>
+		<h2>Find me at:</h2>
+		<p>NYC</p>
 	</div>
-	<div v-else-if="selection == 'Examples'">
-		<img src="../assets/baldzain.png">
-		<img src="../assets/shortzain.jpg">
-		<img src="../assets/bruiser.jpg">
+	<div v-else-if="selection == 'Work'">
+		<h1>Portfolio</h1>
+		<a href="https://www.github.com/pmocal">My Github</a>
 	</div>
 	<div v-else-if="selection == 'Home'">
-		<h1>Welcome to</h1>
-		<img src="../assets/j-lbarber.png">
+		<h1>Welcome to Parthiv Mohan's website</h1>
 	</div>
 </template>
 
